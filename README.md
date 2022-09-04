@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whoseinm
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning Bootstrap
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Gmail: huseynmikayilzade07@gmail.com
 
