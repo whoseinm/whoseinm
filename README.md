@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @whoseinm
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me Gmail: huseynmikayilzade07@gmail.com
