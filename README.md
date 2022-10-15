@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **codeigniter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/whoseinm](https://github.com/whoseinm)
+- 👨‍💻 All of my projects are available at **https://github.com/whoseinm**
 
 - 💬 Ask me about **HTML,CSS,Javascript,PHP and etc.**
 
