@@ -30,4 +30,4 @@
 
 <p><img align="right" position:absolute; top:-200px; src="https://github-readme-stats.vercel.app/api/top-langs?username=whoseinm&show_icons=true&locale=en&layout=compact" alt="whoseinm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whoseinm&show_icons=true&locale=en" alt="whoseinm" /></p>
+<p>&nbsp;<img align="center" style="position: absolute; top:0px;" src="https://github-readme-stats.vercel.app/api?username=whoseinm&show_icons=true&locale=en" alt="whoseinm" /></p>
