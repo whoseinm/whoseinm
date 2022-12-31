@@ -3,7 +3,7 @@
 
 <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align="right" alt="Coding" width="400" >
 
-<p align="left"> <a href="https://twitter.com/whoseinm_" target="blank"><img src="https://img.shields.io/twitter/follow/whoseinm_?logo=twitter&style=for-the-badge" alt="whoseinm_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/whoseinm_" target="_blank"><img src="https://img.shields.io/twitter/follow/whoseinm_?logo=twitter&style=for-the-badge" alt="whoseinm_" /></a> </p>
 
 - 🔭 I’m currently working on **myself**
 
