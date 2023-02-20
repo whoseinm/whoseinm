@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **Math**
+- 🌱 I’m currently learning **python**
 
 - 👨‍💻 All of my projects are available at **https://github.com/whoseinm**
 
