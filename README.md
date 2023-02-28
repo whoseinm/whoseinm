@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Huseyn Mikayilzada</h1>
+<h1 align="center">Hi, I'm Huseyn Mikayilzada</h1>
 <h3 align="center">A passionate developer from Azerbaijan</h3>
 
 <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" align="right" alt="Coding" width="400" >
