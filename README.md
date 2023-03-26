@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/whoseinm_" target="_blank"><img src="https://img.shields.io/twitter/follow/whoseinm_?logo=twitter&style=for-the-badge" alt="whoseinm_" /></a> </p>
 
-- 🔭 I’m currently working on **project**
+- 🔭 I’m currently working on **myself I got exam bruv**
 
 - 🌱 I’m currently learning **python**
 
