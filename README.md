@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/whoseinm**
 
-- 💬 Ask me about **HTML,CSS,Javascript,PHP and Bootstrap etc.**
+- 💬 Ask me about **HTML,CSS,Javascript,PHP, Bootstrap, CodeIgniter etc.**
 
 - 📫 How to reach me **huseynmikayilzade07@gmail.com**
 
