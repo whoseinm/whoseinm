@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/whoseinm_" target="_blank"><img src="https://img.shields.io/twitter/follow/whoseinm_?logo=twitter&style=for-the-badge" alt="whoseinm_" /></a> </p>
 
-- 🔭 I’m currently working on **myself I got exam bruv**
+- 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **cyber sec**
 
 - 👨‍💻 All of my projects are available at **https://github.com/whoseinm**
 
